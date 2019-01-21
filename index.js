@@ -12,7 +12,7 @@ var options =
 	},
 	identity: 
 	{
-		username: "TwitchBitch",
+		username: "n3mrolaw",
 		password: "oauth:tdkksbce0q29bu0i6x7myfyonrze7s",  
 	},
 	channels: ['#johnpittertv', '#gaules',] //ADICIONA OS CANAIS AQ COM '#NOME'
